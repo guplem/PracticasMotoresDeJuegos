@@ -1,4 +1,4 @@
-Vídeo: TODO
+Vídeo: https://youtu.be/KHBohWcVDgU
 Git: https://github.com/guplem/PracticasMotoresDeJuegos/tree/master/P2
 
 Main Map: ThirdPersonBP/Maps/ThirdPersonExampleMap
