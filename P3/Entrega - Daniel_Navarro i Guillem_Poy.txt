@@ -1,0 +1,6 @@
+Vídeo: TODO
+Git: https://github.com/guplem/PracticasMotoresDeJuegos/tree/master/P3
+
+Main Map: ThirdPersonBP/Maps/ThirdPersonExampleMap
+
+Daniel Navarro i Guillem Poy
